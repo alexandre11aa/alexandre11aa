@@ -1,6 +1,6 @@
 <section align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=646592&height=180&section=header&text=Saulo%20Justiniano&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=646592&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Saulo%20Justiniano;MINHA+ESPECIALIZAÇÃO+>+DESENVOLVIMENTO+WEB;MINHA+EXPERIÊNCIA+>+6+MESES+EM+PROGRAMAÇÃO;SE+(CURTIU+MEU+TRABALHO)+SEGUE+%26%26+ESTRELA;OBRIGADO+:%29"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=646592&height=180&section=header&text=Alexandre%20Estrela&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=646592&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+Alexandre%20Estrela;MINHA+ESPECIALIZAÇÃO+>+CIÊNCIA+DE+DADOS;OBRIGADO+:%29"/>
 </section>
 
 <!--  ./STAT -->
@@ -15,18 +15,14 @@
 
 <img align="right" height="auto" width="320" src=".github/terminal-prog.png"/>
 
-- 💻 Software developer
-- 😀 Gosto de programar e estou por dentro de todas as novas tecnologias
-- 🕓 Tenho quase 6 meses de experiência na área da programação
-- 🧑🏻‍💻 Estou cursando análise e desenvolvimento de sistemas (ADS)
+- 💻 Sou formado em Engenharia Civil 
+- 😀 
 
 ##
 
 ### 📦 Habilidades principais
 
 <section align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=E34F26&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&labelcolor=1572B6&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-1572B6?style=for-the-badge&logo=python&labelColor=1572B6&logoColor=white"/>
 </section>
 
@@ -80,11 +76,8 @@
 
 ### 🌟 Curiosidades
 
-- 🎮 Gosto de jogar jogos eletrônicos: CS:GO, etc
-- 🧩 Gosto de jogar boardgame quando da vontade
-- ♨️ Gosto de assistir filmes e séries
-- 🏖️ Gosto de Jogar vôlei
-- 🍕 Comida preferida: Lasanha e Pizza
+- 🎮 Gosto de resolver questões de programação competitiva
+- 🧩 Gosto de resolver desafios de ciência de dados
 
 ##
 
