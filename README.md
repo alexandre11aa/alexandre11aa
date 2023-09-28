@@ -5,8 +5,8 @@
 
 <!--  ./STAT -->
 <section align="center">
-  <img width="56%" height="auto" src="https://github-readme-stats.vercel.app/api?username=saulojustiniano1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=29293e" alt="Saulo Justiniano"/>
-  <img width="43%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulojustiniano1&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
+  <img width="56%" height="auto" src="https://github-readme-stats.vercel.app/api?username=saulojustiniano1&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=fff&bg_color=29293e" alt="Alexandre Estrela"/>
+  <img width="43%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre11aa&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
 </section>
 
 ##
