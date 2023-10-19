@@ -38,15 +38,18 @@
 <a href="https://br.linkedin.com/in/alexandre11aa">
   <code><img height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin"/></code>
 </a>
-<a href="https://www.instagram.com/alexandreest/">
-  <code><img height="32" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></code>
-</a>
 <a href="https://github.com/alexandre11aa">
   <code><img height="32" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></code>
 </a>
+<a href="https://github.com/alexandre11aa">
+  <code><img height="32" src="https://img.shields.io/badge/Lattes-3884FF.svg?style=for-the-badge&logo=BookStack&logoColor=white" alt="Currículo Lattes"/></code>
+</a>
 <a href="mailto:alexandrestrela@hotmail.com">
-  <code><img height="32" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook"/></code>
+  <code><img height="32" src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook"/></code>
 </a>
 <a href="mailto:alexandrestrelaln@gmail.com">
   <code><img height="32" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></code>
+</a>
+<a href="https://www.instagram.com/alexandreest/">
+  <code><img height="32" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></code>
 </a>
