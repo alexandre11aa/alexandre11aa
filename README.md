@@ -41,7 +41,7 @@
 <a href="https://github.com/alexandre11aa">
   <code><img height="32" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></code>
 </a>
-<a href="https://github.com/alexandre11aa">
+<a href="http://lattes.cnpq.br/3157391553364465">
   <code><img height="32" src="https://img.shields.io/badge/Lattes-3884FF.svg?style=for-the-badge&logo=BookStack&logoColor=white" alt="Currículo Lattes"/></code>
 </a>
 <a href="mailto:alexandrestrela@hotmail.com">
