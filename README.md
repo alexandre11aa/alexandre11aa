@@ -11,7 +11,7 @@
 
 ## 👋 Quem sou
 
-> Olá, me chamo Alexandre Estrela, da Paraíba, Brasil. Sou formando em engenharia civil e aficionado por inteligencia computacional.
+> Olá, me chamo Alexandre Estrela, da Paraíba, Brasil. Sou formando em engenharia civil e aficcionado por inteligencia computacional.
 
 ☕ Conheça as ferramentas computacionais por mim desenvolvidas para desktop!
 
