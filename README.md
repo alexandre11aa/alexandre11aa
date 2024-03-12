@@ -17,7 +17,7 @@
 
 💡 Verifique meus algoritmos matemáticos, e questões resolvidas de programação competitiva!
 
-📚 Leia algumas de minhas análises e estudos, você pode conferir mais detalhadamente em meu [Portfólio](https://alexandre11aa.github.io/)!
+📚 Leia algumas de minhas análises e estudos, confira tudo isso mais detalhadamente em meu [Portfólio](https://alexandre11aa.github.io/)!
 
 ---
 
