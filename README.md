@@ -15,9 +15,9 @@
 
 ☕ Conheça as ferramentas computacionais por mim desenvolvidas para desktop!
 
-📚 Leia algumas de minhas análises e estudos, além de meu TCC!
-
 💡 Verifique meus algoritmos matemáticos, e questões resolvidas de programação competitiva!
+
+📚 Leia algumas de minhas análises e estudos, você pode conferir mais detalhadamente em meu [Portfólio](https://alexandre11aa.github.io/)!
 
 ---
 
