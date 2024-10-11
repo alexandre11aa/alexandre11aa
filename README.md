@@ -7,6 +7,7 @@
 
 <section align="center">
   <img height="auto" width="80%" src="https://streak-stats.demolab.com/?user=alexandre11aa&theme=tokyonight"/>
+  <!-- <img src="https://profile-counter.glitch.me/alexandre11aa/count.svg" /> -->
 </section>
 
 ## 👋 Quem sou
@@ -47,5 +48,3 @@
   <code><img height="32" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></code>
 <a href="https://www.instagram.com/alexandreest/">
   <code><img height="32" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></code>
-
-<!-- <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alexandre11aa}/count.svg" /></p> -->
