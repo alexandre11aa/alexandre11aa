@@ -6,8 +6,10 @@
 ## 😸 GitHub
 
 <section align="center">
-  <img height="auto" width="80%" src="https://streak-stats.demolab.com/?user=alexandre11aa&theme=tokyonight"/>
-  <!-- <img src="https://profile-counter.glitch.me/alexandre11aa/count.svg" /> -->
+  <!-- <img height="auto" width="80%" src="https://streak-stats.demolab.com/?user=alexandre11aa&theme=tokyonight"/>
+  <img src="https://profile-counter.glitch.me/alexandre11aa/count.svg" /> -->
+
+  <img width="43%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre11aa&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/>
 </section>
 
 ## 👋 Quem sou
@@ -48,3 +50,7 @@
   <code><img height="32" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></code>
 <a href="https://www.instagram.com/alexandreest/">
   <code><img height="32" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></code>
+
+<section align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=646592&height=150&section=footer"/>
+</section>
