@@ -29,30 +29,35 @@
 
 ## ⭐ Habilidades
 
-<code><img height="32" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/></code>
-<code><img height="32" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy"/></code>
-<code><img height="32" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white" alt="SciPy"/></code>
-<code><img height="32" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></code>
-<code><img height="32" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></code>
-<!-- <code><img height="32" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" alt="Excel"/></code>''' -->
+<code><img height="30" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/></code>
+<code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="Javascript"/></code>
+<code><img height="30" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></code>
+<code><img height="30" src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/></code>
+<code><img height="30" src="https://img.shields.io/badge/sklearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></code>
+<code><img height="30" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/></code>
+<!-- <code><img height="25" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/></code> -->
+<!-- <code><img height="32" src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy"/></code> -->
+<!-- <code><img height="32" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white" alt="SciPy"/></code> -->
+<!-- <code><img height="32" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" alt="Excel"/></code> -->
 
 ---
 
 ## 💬 Contatos
 
 <a href="https://br.linkedin.com/in/alexandre11aa">
-  <code><img height="32" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin"/></code>
 <a href="https://github.com/alexandre11aa">
-  <code><img height="32" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></code>
 <a href="http://lattes.cnpq.br/3157391553364465">
-  <code><img height="32" src="https://img.shields.io/badge/Lattes-3884FF.svg?style=for-the-badge&logo=BookStack&logoColor=white" alt="Currículo Lattes"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/Lattes-3884FF.svg?style=for-the-badge&logo=BookStack&logoColor=white" alt="Currículo Lattes"/></code>
 <a href="mailto:alexandrestrela@hotmail.com">
-  <code><img height="32" src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Outlook"/></code>
 <a href="mailto:alexandrestrelaln@gmail.com">
-  <code><img height="32" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></code>
 <a href="https://www.instagram.com/alexandreest/">
-  <code><img height="32" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></code>
+<a href="https://orcid.org/0009-0008-6707-545X">
+  <code><img height="30" src="https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white" alt="Orcid"/></code>  
 
 <section align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=646592&height=150&section=footer"/>
