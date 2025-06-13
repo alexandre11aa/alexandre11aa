@@ -9,7 +9,7 @@
   <!-- <img height="auto" width="80%" src="https://streak-stats.demolab.com/?user=alexandre11aa&theme=tokyonight"/> -->
   <!-- <img src="https://profile-counter.glitch.me/alexandre11aa/count.svg" /> -->
 
-   <img width="43%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre11aa&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/><br> -->
+   <img width="43%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre11aa&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/><br>
   
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre11aa&theme=dark&hide_border=true" alt="GitHub Streak Stats" style="width: 500px;"> -->
   
