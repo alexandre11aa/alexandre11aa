@@ -3,13 +3,13 @@
   <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=646592&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+ALEXANDRE%20ESTRELA+...;CONHEÇA+MINHAS+FERRAMENTAS+E+ALGORITMOS+...;OBRIGADO!+:D"/>
 </section>
 
-## 😸 GitHub
+<!-- ## 😸 GitHub -->
 
 <section align="center">
   <!-- <img height="auto" width="80%" src="https://streak-stats.demolab.com/?user=alexandre11aa&theme=tokyonight"/> -->
   <!-- <img src="https://profile-counter.glitch.me/alexandre11aa/count.svg" /> -->
 
-   <img width="43%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre11aa&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/><br>
+  <!-- <img width="43%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre11aa&layout=compact&hide_border=true&title_color=00bfbf&text_color=fff&bg_color=29293e&color=fff&"/><br> -->
   
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexandre11aa&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak Stats" style="width: 500px;"> -->
   
